@@ -1,2 +1,2 @@
-#EggBox Origami project 
+# EggBox Origami Project 
 
